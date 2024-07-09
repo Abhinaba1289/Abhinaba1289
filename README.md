@@ -29,7 +29,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/abhinaba1289" target="blank"><img align="center" src="https://github.com/Abhinaba1289/Abhinaba1289/assets/112745548/bc12ea25-c1dc-438f-89af-f48bcb26e84c" alt="abhinaba1289"  width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abhinaba-mukherjee-13589624a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhinaba-mukherjee-13589624a/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abhinaba-mukherjee-13589624a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhinaba-mukherjee-13589624a/" height="30" width="40" /></a>
 <a href="https://instagram.com/sprinkle_the_capture" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sprinkle_the_capture" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/abhinaba2048" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abhinaba2048" height="30" width="40" /></a>
 </p>
