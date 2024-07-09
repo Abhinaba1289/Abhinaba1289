@@ -7,7 +7,9 @@
 
 
 - 🔭 I’m currently working on [My Final Year Project](coming soon)
-
+  
+- 🔭 Pursuing B-Tech in Computer Science From Dr.B.C. Roy Engineering College 
+  
 - 🌱 I’m currently learning **React, OOPs, DSA, DBMS**
 
 - 👨‍💻 All of my projects are available at [coming Soon](coming Soon)
