@@ -11,9 +11,7 @@
   
 - 🌱 I’m currently learning **React, OOPs, DSA, DBMS**
 
-- 👨‍💻 All of my projects are available at [coming Soon](coming Soon)
-
-- 📝 I regularly write articles on [My Portfolio](https://abhinaba1289.github.io/abhinaba-mukherjee/)
+- 👨‍💻 All of my projects are available at  [My Portfolio](https://abhinaba1289.github.io/abhinaba-mukherjee/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, C, C++, OOPs(C++)**
 
