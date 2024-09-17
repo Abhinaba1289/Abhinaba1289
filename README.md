@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [coming Soon](coming Soon)
 
-- 📝 I regularly write articles on [Coming Soon](Coming Soon)
+- 📝 I regularly write articles on [My Portfolio](https://abhinaba1289.github.io/abhinaba-mukherjee/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, C, C++, OOPs(C++)**
 
