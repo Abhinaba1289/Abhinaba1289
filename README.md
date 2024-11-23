@@ -9,7 +9,7 @@
   
 - 🎓 Pursuing B-Tech in Computer Science From Dr.B.C. Roy Engineering College 
   
-- 🌱 I’m currently learning **React, OOPs, DSA, DBMS**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 👨‍💻 All of my projects are available at  [My Portfolio](https://abhinaba1289.github.io/abhinaba-mukherjee/)
 
