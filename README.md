@@ -11,13 +11,11 @@
   
 - 🌱 I’m currently learning **Spring Boot**
 
-- 👨‍💻 All of my projects are available at  [My Portfolio](https://abhinaba1289.github.io/abhinaba-mukherjee/)
+- 👨‍💻 All of my projects are available at  [My Portfolio](https://abhinaba.netlify.app/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, C, C++, OOPs(C++)**
 
 - 📫 How to reach me **abhinaba2048@gmail.com**
-
-- 📄 Know about my experiences [Download My Resume](https://drive.google.com/file/d/1m14iLtkshYCyjBXggro1ArZz00SBg6nE/view)
 
 - ⚡ Fun fact **Web Dev is a Fun Because the Learning Process Never Stop.**
 
