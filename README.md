@@ -11,7 +11,7 @@
   
 - 🌱 I’m currently learning **Spring Boot**
 
-- 👨‍💻 All of my projects are available at  [My Portfolio](https://abhinaba.netlify.app/)
+- 👨‍💻 All of my projects are available at  [My Portfolio](https://abhinaba-one.vercel.app/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, C, C++, OOPs(C++)**
 
