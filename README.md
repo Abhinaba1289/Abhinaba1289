@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm ABHINABA MUKHERJEE</h1>
-<h3 align="center">A passionate Full Stack developer from India.</h3>
+<h3 align="center">Frontend developer.</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=abhinaba1289&label=Profile%20views&color=0e75b6&style=flat" alt="abhinaba1289" /> </p>
 <img align = "right"  alt="coding" width="350"  src="https://github.com/Abhinaba1289/Abhinaba1289/assets/112745548/6c8c656e-4a4f-4681-9d0c-b25aac787a74" >
 
 
-- 🔭 I’m currently working on [My Final Year Project](coming soon)
+- 🔭 I’m currently working on [Business Portfolio](coming soon)
   
-- 🎓 Pursuing B-Tech in Computer Science From Dr.B.C. Roy Engineering College 
+- 🎓 Completed B-Tech in Computer Science Design From Dr.B.C. Roy Engineering College 
   
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **React.JS**
 
 - 👨‍💻 All of my projects are available at  [My Portfolio](https://abhinaba-one.vercel.app/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, C, C++, OOPs(C++)**
+- 💬 Ask me about **HTML, CSS, JavaScript, React.JS, Tailwind CSS, C, C++, Java, OOPs, DBMS**
 
 - 📫 How to reach me **abhinaba2048@gmail.com**
 
-- ⚡ Fun fact **Web Dev is a Fun Because the Learning Process Never Stop.**
+- ⚡ Fun fact **Web Dev is Fun Because the Learning Process Never Stop.**
 
 
 
